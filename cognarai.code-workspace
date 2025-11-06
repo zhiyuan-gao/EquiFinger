@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../cognarai"
+		},
+		{
+			"path": "../IsaacLab"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../dex_hand/DexHand"
+		}
+	],
+	"settings": {}
+}

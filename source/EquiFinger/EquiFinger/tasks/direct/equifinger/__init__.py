@@ -13,7 +13,7 @@ from . import agents
 
 
 gym.register(
-    id="Template-Equifinger-Direct-v0",
+    id="Equifinger-Direct-v0",
     entry_point=f"{__name__}.equifinger_env:EquifingerEnv",
     disable_env_checker=True,
     kwargs={
